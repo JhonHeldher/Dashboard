@@ -1,5 +1,5 @@
 ## Dash Análise de Retorno de Investimento
-![Design preview for the Dashboard](./preview/Dash.jpeg)
+![Design preview for the Dashboard](./Preview/Dash.jpeg)
 Dashboard para análise do ROI e Vendas de um call center feito com Python.
 
 ## Dash incluir 
