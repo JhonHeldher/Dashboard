@@ -1,0 +1,49 @@
+﻿Status de Pagamento,Dia,Mês,Meio de Propaganda,Valor Pago,Chamadas Realizadas,Duração da chamada,Modelo de Treinamento,Nivel de Treinamento,Código de Área,Equipe,Consultor
+Pago,1,Abr,Televisão,R$ 7000000 ,3,02:00,GK,KJI. L4,A7,Equipe 1,Arthur
+Pago,10,Ago,Televisão,R$ 11000000 ,1,02:00,GK,Pre. L8,B13,Equipe 2,Heitor
+Pago,20,Set,Website,R$ 12000000 ,3,02:00,GK,Fndn. L5,A1,Equipe 2,Helena
+Pago,23,Set,Facebook,R$ 15000000 ,1,02:00,GK,Fndn. L5,A2,Equipe 3,Alice
+Pago,11,Set,Televisão,R$ 25000000 ,2,02:00,GK,Fndn. L3,B13,Equipe 4,Theo
+Pago,2,Out,WhatsApp,R$ 12000000 ,1,02:00,GK,Fndn. L1,A4,Equipe 1,Davi
+Pago,6,Out,WhatsApp,R$ 20000000 ,2,02:00,GK,KJI. L4,B12,Equipe 4,Theo
+Pago,26,Nov,Facebook,R$ 19000000 ,2,02:00,BE,Pre. L2,A2,Equipe 1,Davi
+Pago,15,Nov,WhatsApp,R$ 38000000 ,2,02:00,BE,Fndn. L1,B18,Equipe 2,Heitor
+Pago,17,Nov,Google Ad,R$ 12000000 ,2,02:00,GK,Fndn. L6,C8,Equipe 2,Laura
+Pago,1,Abr,Televisão,R$ 7000000 ,3,02:00,GK,KJI. L4,A7,Equipe 1,Arthur
+Pago,2,Out,WhatsApp,R$ 12000000 ,1,02:00,GK,Fndn. L1,A4,Equipe 1,Heitor
+Pago,6,Out,WhatsApp,R$ 20000000 ,2,02:00,GK,KJI. L4,B12,Equipe 4,Lorenzo
+Pago,26,Nov,Facebook,R$ 19000000 ,2,02:00,BE,Pre. L2,A2,Equipe 1,Sophia
+Pago,17,Nov,Google Ad,R$ 7000000 ,1,02:00,GK,KJI. L4,A2,Equipe 1,Lorenzo
+Pago,30,Nov,Google Ad,R$ 10000000 ,1,02:00,GK,Fndn. L5,A2,Equipe 3,João
+Pago,29,Nov,Facebook,R$ 15000000 ,1,02:00,GK,KJI. L4,B13,Equipe 2,Heitor
+Pago,6,Nov,Google Ad,R$ 7000000 ,3,02:00,GK,Pre. L4,C8,Equipe 4,Bernardo
+Pago,22,Dez,Website,R$ 25000000 ,6,02:00,GK,Pre. L3,B12,Equipe 4,Theo
+Pago,3,Dez,Facebook,R$ 20000000 ,4,02:00,GK,Fndn. L1,C8,Equipe 2,Laura
+Pago,12,Jan,Televisão,R$ 11000000 ,1,02:00,GK,Pre. L3,C8,Equipe 2,Laura
+Pago,11,Fev,Website,R$ 25000000 ,1,02:00,GK,Fndn. L5,B12,Equipe 2,Helena
+Pago,11,Mar,Facebook,R$ 38000000 ,2,02:00,BE,Pre. L3,B12,Equipe 1,Lorenzo
+Pago,3,Abr,WhatsApp,R$ 15000000 ,1,02:00,GK,Pre. L3,A7,Equipe 1,Davi
+Pago,11,Mai,Televisão,R$ 19000000 ,1,02:00,BE,KJI. L4,B13,Equipe 3,Sophia
+Pago,10,Mai,WhatsApp,R$ 20000000 ,3,02:00,GK,Pre. L2,A2,Equipe 3,Sophia
+Pago,5,Mai,WhatsApp,R$ 7000000 ,2,02:00,GK,Pre. L3,B18,Equipe 2,Laura
+Pago,12,Jun,Website,R$ 38000000 ,3,02:00,BE,Fndn. L1,A4,Equipe 1,Lorenzo
+Pago,26,Ago,Televisão,R$ 20000000 ,3,02:00,CNI,KJI. L4,A7,Equipe 4,Theo
+Não pago,11,Mar,Facebook,R$ 0 ,1,02:00,,,A1,Equipe 1,Lorena
+Não pago,14,Abr,Televisão,R$ 0 ,5,02:00,,,A2,Equipe 2,Laura
+Não pago,1,Mai,Televisão,R$ 0 ,1,02:00,,,A7,Equipe 3,Sophia
+Não pago,12,Jun,Website,R$ 0 ,2,02:00,,,A2,Equipe 2,Heitor
+Não pago,7,Out,Google Ad,R$ 0 ,6,02:00,,,B12,Equipe 4,Bernardo
+Não pago,5,Out,Facebook,R$ 0 ,4,02:00,,,C8,Equipe 2,Heitor
+Não pago,23,Nov,Televisão,R$ 0 ,3,02:00,,,A7,Equipe 4,Theo
+Não pago,19,Nov,Facebook,R$ 0 ,1,02:00,,,B18,Equipe 1,Lucas
+Não pago,10,Dez,Google Ad,R$ 0 ,1,02:00,,,B18,Equipe 1,Davi
+Não pago,11,Mar,Facebook,R$ 0 ,1,02:00,,,A1,Equipe 1,Lorena
+Não pago,14,Abr,Televisão,R$ 0 ,5,02:00,,,A2,Equipe 2,Laura
+Não pago,1,Mai,Televisão,R$ 0 ,1,02:00,,,A7,Equipe 3,Sophia
+Não pago,12,Jun,Website,R$ 0 ,2,02:00,,,A2,Equipe 2,Heitor
+Pago,1,Mai,Facebook,R$ 25000000 ,1,02:00,GK,Pre. L2,A1,Equipe 4,Bernardo
+Pago,12,Jun,Televisão,R$ 12000000 ,2,02:00,GK,KJI. L4,A1,Equipe 2,Heitor
+Pago,12,Jun,Televisão,R$ 15000000 ,5,02:00,GK,Fndn. L1,B18,Equipe 1,Lucas
+Pago,10,Ago,Televisão,R$ 12000000 ,4,02:00,GK,Fndn. L6,A2,Equipe 2,Helena
+Pago,23,Set,Televisão,R$ 20000000 ,1,02:00,GK,Pre. L2,A1,Equipe 3,João
+Pago,8,Set,Facebook,R$ 21000000 ,4,02:00,GK,KJI. L4,B12,Equipe 1,Samuel
